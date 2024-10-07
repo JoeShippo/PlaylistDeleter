@@ -14,8 +14,8 @@ A PHP web app that allows users to authenticate with their Spotify account and d
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/spotify-playlist-deleter.git
-   cd spotify-playlist-deleter
+   git clone https://github.com/JoeShippo/PlaylistDeleter.git
+   cd PlaylistDeleter
    ```
 
 2. **Configure Your Spotify API Credentials**
