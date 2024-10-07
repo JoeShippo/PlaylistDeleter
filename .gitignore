@@ -1,0 +1,25 @@
+# Ignore configuration file with actual credentials
+config.php
+
+# Ignore sensitive session files and caches
+*.log
+*.cache
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore PHPStorm or other IDE-related files
+.idea/
+*.iml
+
+# Node.js (if applicable)
+node_modules/
+npm-debug.log
+
+# MacOS system files
+._*
